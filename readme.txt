@@ -1,3 +1,2 @@
-fit aldfjlasdjf
-asldfjals
-asdfk
+Git is a distributed version control system.
+Git is free software.
